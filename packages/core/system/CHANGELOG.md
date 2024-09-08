@@ -1,5 +1,13 @@
 # @nextui-org/system
 
+## 2.2.6
+
+### Patch Changes
+
+- Updated dependencies [[`44e89a077`](https://github.com/nextui-org/nextui/commit/44e89a0779c1c98fe275c864fe12834d19302b9c)]:
+  - @nextui-org/system-rsc@2.1.6
+  - @nextui-org/react-utils@2.0.17
+
 ## 2.2.5
 
 ### Patch Changes

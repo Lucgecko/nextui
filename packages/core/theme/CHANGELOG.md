@@ -1,5 +1,31 @@
 # @nextui-org/theme
 
+## 2.2.10
+
+### Patch Changes
+
+- [#3486](https://github.com/nextui-org/nextui/pull/3486) [`324fd6d3c`](https://github.com/nextui-org/nextui/commit/324fd6d3c1fb7e6f3ecb462a150182ffe1c7f132) Thanks [@awesome-pro](https://github.com/awesome-pro)! - fixed the shadow clipping of card inside listbox or menubox item (#3480)
+
+- [#2038](https://github.com/nextui-org/nextui/pull/2038) [`deb15078c`](https://github.com/nextui-org/nextui/commit/deb15078cc61fea30b9e4f6c98eddad244420276) Thanks [@amirhhashemi](https://github.com/amirhhashemi)! - Improved RTL support for the input component
+
+- [#3000](https://github.com/nextui-org/nextui/pull/3000) [`81da063d6`](https://github.com/nextui-org/nextui/commit/81da063d6ab80e1b352ebfda78ed26a47a239c49) Thanks [@chirokas](https://github.com/chirokas)! - Improve clear button pointer events, keyboard reopen issue on mobile
+
+- [#3217](https://github.com/nextui-org/nextui/pull/3217) [`9d6bcb580`](https://github.com/nextui-org/nextui/commit/9d6bcb580a7bde6ff846fdfb679ec6e0a16410e6) Thanks [@chirokas](https://github.com/chirokas)! - Fix skeleton overflow issue (#3214 #3670)
+
+- [#2041](https://github.com/nextui-org/nextui/pull/2041) [`6f44cd6a9`](https://github.com/nextui-org/nextui/commit/6f44cd6a98f7fa848496e2bd9ca933cd6796bf3f) Thanks [@amirhhashemi](https://github.com/amirhhashemi)! - Improved RTL support for the select component
+
+- [#3691](https://github.com/nextui-org/nextui/pull/3691) [`3e06ef64c`](https://github.com/nextui-org/nextui/commit/3e06ef64cc5da30f7b2ab209d9d669e6ac8478ca) Thanks [@wingkwong](https://github.com/wingkwong)! - adjust modal position when keyboard appears (#2837)
+
+- [#2946](https://github.com/nextui-org/nextui/pull/2946) [`59ea6b745`](https://github.com/nextui-org/nextui/commit/59ea6b7457345b8b1f241143301b5a9bf81054e4) Thanks [@rockey2020](https://github.com/rockey2020)! - export default-layout in theme
+
+- [#3656](https://github.com/nextui-org/nextui/pull/3656) [`55c92981e`](https://github.com/nextui-org/nextui/commit/55c92981e009b1721e8288341402feb1ebec08f3) Thanks [@ameybh](https://github.com/ameybh)! - fixed arrow keys order when html has dir="rtl" (#3641, #3642)
+
+- [#3552](https://github.com/nextui-org/nextui/pull/3552) [`97f233b34`](https://github.com/nextui-org/nextui/commit/97f233b346e07c766fb25a2ca16a78d4aa8ce2fe) Thanks [@awesome-pro](https://github.com/awesome-pro)! - fixed the double click need in chrome for checkbox, switch and radiobuttons (#3528)
+
+- [#3663](https://github.com/nextui-org/nextui/pull/3663) [`46cc01908`](https://github.com/nextui-org/nextui/commit/46cc01908e99797cfc9c60762fef6d95dc6c0b6a) Thanks [@macci001](https://github.com/macci001)! - The color of the selected value in SELECT component was `text-foreground-500` instead of `text-default-foreground`. Also label slot in SELECT component's UNDERLINE had no effect of color variant. The change includes the fix for the mentioned issues (#3659).
+
+- [#2044](https://github.com/nextui-org/nextui/pull/2044) [`fe30dc8cc`](https://github.com/nextui-org/nextui/commit/fe30dc8cc0c109f7f537be79c8c13a3f5fa1c0f7) Thanks [@amirhhashemi](https://github.com/amirhhashemi)! - Improved RTL support for the pagination component
+
 ## 2.2.9
 
 ### Patch Changes
